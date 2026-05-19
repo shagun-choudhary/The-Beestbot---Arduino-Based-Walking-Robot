@@ -63,3 +63,7 @@ The robot combines Arduino-based motor control, ultrasonic sensing, and a Theo J
 - Wind powered Energy Harvesting
 
 ---
+
+👨‍💻 Author
+Shagun Choudhary
+B.Tech Third Year
