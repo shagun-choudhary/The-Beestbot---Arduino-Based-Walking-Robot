@@ -57,10 +57,9 @@ The robot combines Arduino-based motor control, ultrasonic sensing, and a Theo J
 
 🚀 Applications
 
-- Educational robotics and STEM learning
-- Demonstration of linkage and kinematics
-- Obstacle-avoiding robotic systems
-- Research in biomimetic locomotion
-- Embedded systems and mechanical design projects
+- In exploring challenging terrains
+- Disaster Recovery
+- Search & Rescue
+- Wind powered Energy Harvesting
 
 ---
